@@ -1,0 +1,1 @@
+export let chiave =  "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTc4M2JmMmMwNTgzNTAwMTg1MjMwZGMiLCJpYXQiOjE3MDUwNjgzOTYsImV4cCI6MTcwNjI3Nzk5Nn0.oNy9Rvlauwsg38yPxY2Gsb8wl3se-4zsPecvKStWqxQ"
